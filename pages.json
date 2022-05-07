@@ -3,7 +3,7 @@
             "path" : "pages/home/home",
             "style" :                                                                                    
             {
-                "navigationBarTitleText": "",
+                "navigationBarTitleText": "黑马优购",
                 "enablePullDownRefresh": false
             }
             
@@ -12,7 +12,7 @@
             "path" : "pages/cate/cate",
             "style" :                                                                                    
             {
-                "navigationBarTitleText": "",
+                "navigationBarTitleText": "黑马优购",
                 "enablePullDownRefresh": false
             }
             
@@ -21,7 +21,7 @@
             "path" : "pages/cart/cart",
             "style" :                                                                                    
             {
-                "navigationBarTitleText": "",
+                "navigationBarTitleText": "黑马优购",
                 "enablePullDownRefresh": false
             }
             
@@ -30,7 +30,7 @@
             "path" : "pages/my/my",
             "style" :                                                                                    
             {
-                "navigationBarTitleText": "",
+                "navigationBarTitleText": "黑马优购",
                 "enablePullDownRefresh": false
             }
             
@@ -39,7 +39,7 @@
             "path" : "components/my-search/my-search",
             "style" :                                                                                    
             {
-                "navigationBarTitleText": "",
+                "navigationBarTitleText": "黑马优购",
                 "enablePullDownRefresh": false
             }
             
@@ -62,7 +62,9 @@
                     "style" :                                                                                    
                 {
                     "navigationBarTitleText": "",
-                    "enablePullDownRefresh": false
+                    "enablePullDownRefresh": true,
+                    "onReachBottomDistance": 150,
+                    "backgroundColor": "#F8F8F8"
                 }
                 
                 }
