@@ -52,7 +52,7 @@
                     "path" : "goods_detail/goods_detail",
                     "style" :                                                                                    
                 {
-                    "navigationBarTitleText": "",
+                    "navigationBarTitleText": "黑马优购",
                     "enablePullDownRefresh": false
                 }
                 
@@ -61,7 +61,7 @@
                     "path" : "goods_list/goods_list",
                     "style" :                                                                                    
                 {
-                    "navigationBarTitleText": "",
+                    "navigationBarTitleText": "黑马优购",
                     "enablePullDownRefresh": true,
                     "onReachBottomDistance": 150,
                     "backgroundColor": "#F8F8F8"
@@ -72,7 +72,7 @@
                     "path" : "search/search",
                     "style" :                                                                                    
                 {
-                    "navigationBarTitleText": "",
+                    "navigationBarTitleText": "黑马优购",
                     "enablePullDownRefresh": false
                 }
                 
